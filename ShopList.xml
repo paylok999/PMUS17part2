@@ -48,10 +48,12 @@
 <!-- Lorencia -->
 	<Shop NPCIndex="230" MapNumber="0" PosX="114" PosY="120" Dir="3" VipType="0" GMShop="0" FileName="NPC(230)_Wandering_Merchant_Alex.xml" />
 	<Shop NPCIndex="250" MapNumber="0" PosX="183" PosY="137" Dir="2" VipType="0" GMShop="0" FileName="NPC(250)_Wandering_Merchant_Herald.xml" />
-	<Shop NPCIndex="251" MapNumber="0" PosX="116" PosY="141" Dir="3" VipType="0" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" />
+	<Shop NPCIndex="251" MapNumber="0" PosX="116" PosY="141" Dir="3" VipType="0" GMShop="1" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" />
+	<Shop NPCIndex="251" MapNumber="0" PosX="118" PosY="141" Dir="3" VipType="0" GMShop="1" FileName="NPC(251)_Hanzo_the_Blacksmith_2.xml" />
+	
+	<Shop NPCIndex="253" MapNumber="0" PosX="137" PosY="134" Dir="2" VipType="0" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" />
 	<Shop NPCIndex="253" MapNumber="0" PosX="127" PosY="86" Dir="2" VipType="0" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" />
 	<Shop NPCIndex="254" MapNumber="0" PosX="118" PosY="113" Dir="3" VipType="0" GMShop="0" FileName="NPC(254)_Pasi_the_Mage.xml" />
-	<Shop NPCIndex="891" MapNumber="0" PosX="119" PosY="111" Dir="3" VipType="0" GMShop="0" FileName="NPC(891)_Wizard_Gillard.xml" />
 	<Shop NPCIndex="255" MapNumber="0" PosX="123" PosY="135" Dir="1" VipType="0" GMShop="0" FileName="NPC(255)_Lumen_the_Barmaid.xml" />
 <!-- Devias -->
 	<Shop NPCIndex="231" MapNumber="2" PosX="8"  PosY="77" Dir="3" VipType="0" GMShop="0" FileName="NPC(231)_Thompson_Kenel.xml" />
