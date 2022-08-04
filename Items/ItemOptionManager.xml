@@ -39,6 +39,10 @@
 // 4: Increases Maximum HP +%d
 // 5: Increases Maximum Mana +%d
 -->
+	<Section ID="0">
+		<Item Cat="9" Index="29" Option1="3" Value1="600" Option2="0" Value2="10" Time="0" /> <!-- Jack O'Lantern Cry -->
+	</Section>
+	
 	<Section ID="1">
 		<Item Cat="14" Index="46" Option1="1" Value1="10" Option2="0" Value2="10" Time="1800" /> <!-- Jack O'Lantern Blessings -->
 		<Item Cat="14" Index="47" Option1="2" Value1="25" Option2="0" Value2="10" Time="1800" /> <!-- Jack O'Lantern Wrath -->
@@ -303,7 +307,7 @@
 	</Section>
 
 	<Section ID="62">
-		<Item Cat="14" Index="224" Option1="88" Value1="200" Option2="0" Value2="0" Time="1800" /> <!-- Blessing of Light -->
+		<Item Cat="14" Index="224" Option1="88" Value1="0" Option2="0" Value2="0" Time="0" /> <!-- Blessing of Light -->
 	</Section>
 	
 	<Section ID="63">
@@ -367,23 +371,23 @@
 	</Section>
 	
 	<Section ID="77">
-		<Item Cat="14" Index="263" Option1="88" Value1="50" Option2="0" Value2="0"	Time="1800" /> <!-- Bless of Light (Low Grade) -->
+		<Item Cat="14" Index="263" Option1="88" Value1="0" Option2="0" Value2="0"	Time="0" /> <!-- Bless of Light (Low Grade) -->
 	</Section>
 	
 	<Section ID="78">
-		<Item Cat="14" Index="264" Option1="88" Value1="100" Option2="0" Value2="0"	Time="1800" /> <!-- Bless of Light (Middle Grade) -->
+		<Item Cat="14" Index="264" Option1="88" Value1="0" Option2="0" Value2="0"	Time="0" /> <!-- Bless of Light (Middle Grade) -->
 	</Section>
 	
 	<Section ID="79">
-		<Item Cat="14" Index="371" Option1="88" Value1="200" Option2="0" Value2="0" Time="1800" /> <!-- [Bound] Bless of Light (Higher) -->
+		<Item Cat="14" Index="371" Option1="88" Value1="0" Option2="0" Value2="0" Time="0" /> <!-- [Bound] Bless of Light (Higher) -->
 	</Section>
 	
 	<Section ID="80">
-		<Item Cat="14" Index="372" Option1="88" Value1="100" Option2="0" Value2="0" Time="1800" /> <!-- [Bound] Bless of Light (Medium) -->
+		<Item Cat="14" Index="372" Option1="88" Value1="0" Option2="0" Value2="0" Time="0" /> <!-- [Bound] Bless of Light (Medium) -->
 	</Section>
 	
 	<Section ID="81">
-		<Item Cat="14" Index="373" Option1="88" Value1="50" Option2="0" Value2="0" Time="1800" /> <!-- [Bound] Bless of Light (Lower) -->
+		<Item Cat="14" Index="373" Option1="88" Value1="0" Option2="0" Value2="0" Time="0" /> <!-- [Bound] Bless of Light (Lower) -->
 	</Section>
 	
 	<Section ID="84">

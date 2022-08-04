@@ -156,7 +156,7 @@
 		<Errtel ExpectedLevel="10" InitialLevel="9" Count="1" ItemCat1="12" ItemIndex1="288" ItemCount1="7" ItemCat2="-1" ItemIndex2="-1" ItemCount2="0" ItemCat3="-1" ItemIndex3="-1" ItemCount3="0" ItemCat4="-1" ItemIndex4="-1" ItemCount4="0" ItemCat5="-1" ItemIndex5="-1" ItemCount5="0" ReqMoney="600000" />
 	</RegularErrtelLevelUp>
  
-	<ErrtelsRankUpgrade MaxErrtelRankUp="5"> <!-- Modifications require changes to PentagramMixNeedSource.bmd (group 3) -->
+	<ErrtelsRankUpgrade MaxErrtelRankUp="4"> <!-- Modifications require changes to PentagramMixNeedSource.bmd (group 3) -->
 		<Errtel ExpectedRank="2" InitialRank="1" Count="1" ItemCat1="12" ItemIndex1="151" ItemCount1="1" ItemCat2="12" ItemIndex2="30" ItemCount2="1" ItemCat3="100" ItemIndex3="1" ItemCount3="1" ItemCat4="-1" ItemIndex4="-1" ItemCount4="0" ItemCat5="-1" ItemIndex5="-1" ItemCount5="0" ReqMoney="100000" />   
 		<Errtel ExpectedRank="3" InitialRank="2" Count="1" ItemCat1="12" ItemIndex1="151" ItemCount1="3" ItemCat2="12" ItemIndex2="30" ItemCount2="1" ItemCat3="100" ItemIndex3="1" ItemCount3="1" ItemCat4="-1" ItemIndex4="-1" ItemCount4="0" ItemCat5="-1" ItemIndex5="-1" ItemCount5="0" ReqMoney="100000" />   
 		<Errtel ExpectedRank="4" InitialRank="3" Count="1" ItemCat1="12" ItemIndex1="151" ItemCount1="6" ItemCat2="12" ItemIndex2="30" ItemCount2="1" ItemCat3="100" ItemIndex3="1" ItemCount3="1" ItemCat4="-1" ItemIndex4="-1" ItemCount4="0" ItemCat5="-1" ItemIndex5="-1" ItemCount5="0" ReqMoney="150000" />   
