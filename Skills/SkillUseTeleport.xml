@@ -67,8 +67,8 @@
 	<Skill Index="497" Name="Earth Prison Strengthener" Enable="1" />
 	<Skill Index="642" Name="Illusion" Enable="1" />
 	<Skill Index="724" Name="Meteor Strike" Enable="1" />
-	<Skill Index="725" Name="Meteor Storm" Enable="0" />
-	<Skill Index="726" Name="Soul Seeker" Enable="0" />
+	<Skill Index="725" Name="Meteor Storm" Enable="1" />
+	<Skill Index="726" Name="Soul Seeker" Enable="1" />
 	<Skill Index="843" Name="Shining Bird Strengthener" Enable="0" />
 	<Skill Index="844" Name="Shining Bird Mastery" Enable="0" />
 	<Skill Index="846" Name="Dragon Violent Strengthener" Enable="0" />
@@ -77,8 +77,8 @@
 	<Skill Index="863" Name="Reflection Barrier Mastery" Enable="1" />
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 	<Skill Index="1075" Name="Meteor Strike Enhancement Skill" Enable="1" />
-	<Skill Index="1076" Name="Meteor Storm Enhancement Skill" Enable="0" />
-	<Skill Index="1078" Name="Evil Spirit Enhancement Skill" Enable="0" />
+	<Skill Index="1076" Name="Meteor Storm Enhancement Skill" Enable="1" />
+	<Skill Index="1078" Name="Evil Spirit Enhancement Skill" Enable="1" />
 	<Skill Index="1220" Name="Shining Bird Enhancement Skill" Enable="0" />
 	<Skill Index="1221" Name="Dragon Violent Enhancement Skill" Enable="0" />
 	<Skill Index="1216" Name="Spear Storm Enhancement Skill" Enable="1" />

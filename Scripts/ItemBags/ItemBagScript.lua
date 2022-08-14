@@ -268,6 +268,140 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,486),0, 'Item_(14,486,0)_Ruud_Box_(1500)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,487),0, 'Item_(14,487,0)_Ruud_Box_(400)') -- DropFunction /4/
 	-- AddItemBag(BAG_INVENTORY, MakeItemID(14,492),0, 'Item_(14,492,0)_Ghost_Horse_Capsule') -- DropFunction /4/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),5, 'Item_(19,15,0)_Freebies_Item_Box_(Helm)_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),5, 'Item_(19,16,0)_Freebies_Item_Box_(Armor)_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),5, 'Item_(19,17,0)_Freebies_Item_Box_(Pants)_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),5, 'Item_(19,18,0)_Freebies_Item_Box_(Gloves)_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),5, 'Item_(19,19,0)_Freebies_Item_Box_(Boots)_DK') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),1, 'Item_(19,15,1)_Freebies_Item_Box_(Helm)_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),1, 'Item_(19,16,1)_Freebies_Item_Box_(Armor)_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),1, 'Item_(19,17,1)_Freebies_Item_Box_(Pants)_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),1, 'Item_(19,18,1)_Freebies_Item_Box_(Gloves)_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),1, 'Item_(19,19,1)_Freebies_Item_Box_(Boots)_Wiz') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),2, 'Item_(19,15,2)_Freebies_Item_Box_(Helm)_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),2, 'Item_(19,16,2)_Freebies_Item_Box_(Armor)_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),2, 'Item_(19,17,2)_Freebies_Item_Box_(Pants)_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),2, 'Item_(19,18,2)_Freebies_Item_Box_(Gloves)_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),2, 'Item_(19,19,2)_Freebies_Item_Box_(Boots)_Elf') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),3, 'Item_(19,16,3)_Freebies_Item_Box_(Armor)_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),3, 'Item_(19,17,3)_Freebies_Item_Box_(Pants)_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),3, 'Item_(19,18,3)_Freebies_Item_Box_(Gloves)_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),3, 'Item_(19,19,3)_Freebies_Item_Box_(Boots)_MG') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),4, 'Item_(19,15,4)_Freebies_Item_Box_(Helm)_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),4, 'Item_(19,16,4)_Freebies_Item_Box_(Armor)_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),4, 'Item_(19,17,4)_Freebies_Item_Box_(Pants)_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),4, 'Item_(19,18,4)_Freebies_Item_Box_(Gloves)_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),4, 'Item_(19,19,4)_Freebies_Item_Box_(Boots)_DL') -- DropFunction /1/
+	
+	-- Bloodangel --
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),7, 'Item_(19,15,7)_Freebies_Item_Box_(Helm)_BA_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),7, 'Item_(19,16,7)_Freebies_Item_Box_(Armor)_BA_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),7, 'Item_(19,17,7)_Freebies_Item_Box_(Pants)_BA_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),7, 'Item_(19,18,7)_Freebies_Item_Box_(Gloves)_BA_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),7, 'Item_(19,19,7)_Freebies_Item_Box_(Boots)_BA_DK') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),8, 'Item_(19,15,8)_Freebies_Item_Box_(Helm)_BA_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),8, 'Item_(19,16,8)_Freebies_Item_Box_(Armor)_BA_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),8, 'Item_(19,17,8)_Freebies_Item_Box_(Pants)_BA_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),8, 'Item_(19,18,8)_Freebies_Item_Box_(Gloves)_BA_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),8, 'Item_(19,19,8)_Freebies_Item_Box_(Boots)_BA_Wiz') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),9, 'Item_(19,15,9)_Freebies_Item_Box_(Helm)_BA_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),9, 'Item_(19,16,9)_Freebies_Item_Box_(Armor)_BA_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),9, 'Item_(19,17,9)_Freebies_Item_Box_(Pants)_BA_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),9, 'Item_(19,18,9)_Freebies_Item_Box_(Gloves)_BA_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),9, 'Item_(19,19,9)_Freebies_Item_Box_(Boots)_BA_Elf') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),6, 'Item_(19,16,10)_Freebies_Item_Box_(Armor)_BA_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),6, 'Item_(19,17,10)_Freebies_Item_Box_(Pants)_BA_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),6, 'Item_(19,18,10)_Freebies_Item_Box_(Gloves)_BA_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),6, 'Item_(19,19,10)_Freebies_Item_Box_(Boots)_BA_MG') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),10, 'Item_(19,15,10)_Freebies_Item_Box_(Helm)_BA_SUM') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),10, 'Item_(19,16,10)_Freebies_Item_Box_(Armor)_BA_SUM') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),10, 'Item_(19,17,10)_Freebies_Item_Box_(Pants)_BA_SUM') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),10, 'Item_(19,18,10)_Freebies_Item_Box_(Gloves)_BA_SUM') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),10, 'Item_(19,19,10)_Freebies_Item_Box_(Boots)_BA_SUM') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),11, 'Item_(19,15,11)_Freebies_Item_Box_(Helm)_BA_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),11, 'Item_(19,16,11)_Freebies_Item_Box_(Armor)_BA_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),11, 'Item_(19,17,11)_Freebies_Item_Box_(Pants)_BA_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),11, 'Item_(19,18,11)_Freebies_Item_Box_(Gloves)_BA_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),11, 'Item_(19,19,11)_Freebies_Item_Box_(Boots)_BA_DL') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),12, 'Item_(19,15,12)_Freebies_Item_Box_(Helm)_BA_RF') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),12, 'Item_(19,16,12)_Freebies_Item_Box_(Armor)_BA_RF') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),12, 'Item_(19,17,12)_Freebies_Item_Box_(Pants)_BA_RF') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),12, 'Item_(19,19,12)_Freebies_Item_Box_(Boots)_BA_RF') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),13, 'Item_(19,15,13)_Freebies_Item_Box_(Helm)_BA_GL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),13, 'Item_(19,16,13)_Freebies_Item_Box_(Armor)_BA_GL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),13, 'Item_(19,17,13)_Freebies_Item_Box_(Pants)_BA_GL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),13, 'Item_(19,18,13)_Freebies_Item_Box_(Gloves)_BA_GL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),13, 'Item_(19,19,13)_Freebies_Item_Box_(Boots)_BA_GL') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),14, 'Item_(19,15,14)_Freebies_Item_Box_(Helm)_BA_SL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),14, 'Item_(19,16,14)_Freebies_Item_Box_(Armor)_BA_SL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),14, 'Item_(19,17,14)_Freebies_Item_Box_(Pants)_BA_SL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),14, 'Item_(19,18,14)_Freebies_Item_Box_(Gloves)_BA_SL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),14, 'Item_(19,19,14)_Freebies_Item_Box_(Boots)_BA_SL') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),15, 'Item_(19,15,15)_Freebies_Item_Box_(Helm)_BA_RW') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),15, 'Item_(19,16,15)_Freebies_Item_Box_(Armor)_BA_RW') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),15, 'Item_(19,17,15)_Freebies_Item_Box_(Pants)_BA_RW') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),15, 'Item_(19,18,15)_Freebies_Item_Box_(Gloves)_BA_RW') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),15, 'Item_(19,19,15)_Freebies_Item_Box_(Boots)_BA_RW') -- DropFunction /1/
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,15),0, 'Item_(19,15,0)_Freebies_Item_Box_(Helm)_BA_Gun') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,16),0, 'Item_(19,16,0)_Freebies_Item_Box_(Armor)_BA_Gun') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,17),0, 'Item_(19,17,0)_Freebies_Item_Box_(Pants)_BA_Gun') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,18),0, 'Item_(19,18,0)_Freebies_Item_Box_(Gloves)_BA_Gun') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,19),0, 'Item_(19,19,0)_Freebies_Item_Box_(Boots)_BA_Gun') -- DropFunction /1/
+	
+	-- wing --
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),11, 'Item_(19,22,0)_Freebies_Item_Box_(Wing)_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),1, 'Item_(19,22,1)_Freebies_Item_Box_(Wing)_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),2, 'Item_(19,22,2)_Freebies_Item_Box_(Wing)_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),3, 'Item_(19,22,3)_Freebies_Item_Box_(Wing)_Sum') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),4, 'Item_(19,22,4)_Freebies_Item_Box_(Wing)_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),5, 'Item_(19,22,5)_Freebies_Item_Box_(Wing)_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),6, 'Item_(19,22,6)_Freebies_Item_Box_(Wing)_RF') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),7, 'Item_(19,22,7)_Freebies_Item_Box_(Wing)_GL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),8, 'Item_(19,22,8)_Freebies_Item_Box_(Wing)_RW') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),9, 'Item_(19,22,9)_Freebies_Item_Box_(Wing)_SL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,22),12, 'Item_(19,22,12)_Freebies_Item_Box_(Wing)_Gun') -- DropFunction /1/
+	
+	-- weapon --
+	
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),11, 'Item_(19,20,0)_Freebies_Item_Box_(Weapon)_DK') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),1, 'Item_(19,20,1)_Freebies_Item_Box_(Weapon)_Wiz') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),2, 'Item_(19,20,2)_Freebies_Item_Box_(Weapon)_Elf') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),3, 'Item_(19,20,3)_Freebies_Item_Box_(Weapon)_Elf1') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),4, 'Item_(19,20,4)_Freebies_Item_Box_(Weapon)_Sum') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),5, 'Item_(19,20,5)_Freebies_Item_Box_(Weapon)_MG') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),6, 'Item_(19,20,6)_Freebies_Item_Box_(Weapon)_DL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),7, 'Item_(19,20,7)_Freebies_Item_Box_(Weapon)_RF') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),8, 'Item_(19,20,8)_Freebies_Item_Box_(Weapon)_GL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),9, 'Item_(19,20,9)_Freebies_Item_Box_(Weapon)_RW') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),13, 'Item_(19,20,10)_Freebies_Item_Box_(Weapon)_SL') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,20),12, 'Item_(19,20,12)_Freebies_Item_Box_(Weapon)_Gun') -- DropFunction /1/
+	
+	-- shield --
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,21),1, 'Item_(19,21,1)_Freebies_Item_Box_(Shield)') -- DropFunction /1/
+	
+	-- premium box --
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),0, 'Item_(19,3,0)_Premium_Box') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),1, 'Item_(19,3,1)_Premium_Box') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),2, 'Item_(19,3,2)_Premium_Box') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),3, 'Item_(19,3,3)_Premium_Box') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),4, 'Item_(19,3,4)_Premium_Box') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),5, 'Item_(19,3,5)_Premium_Box') -- DropFunction /1/
+
 
 -- ====================================================================
 -- MonsterBags -- BagType, 0, MonsterID, 'FileName'
