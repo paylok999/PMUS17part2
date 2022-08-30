@@ -53,7 +53,7 @@
 -->
 
 <FereaBossZone Enable="1">
-	<RegenTime SuccessStartBaseHour="12" SuccessStartAddHour="12" FailureStartMin="5" />
+	<RegenTime SuccessStartBaseHour="4" SuccessStartAddHour="4" FailureStartMin="5" />
 	<HPRecovery Value="70000" />
 	<Skills WhirlWindDamagePercent="80" WhirlWindDistance="3" LandMineDamagePercent="95" RoarDistance="6" />
 	

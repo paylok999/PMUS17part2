@@ -527,8 +527,8 @@
 				<Item Cat="12" Index="460" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- blood -->
 				<Item Cat="12" Index="460" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- blood -->
 				<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- seal of ghost horse -->
-				<Item Cat="14" Index="498" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- ice dragon seal -->
-				<Item Cat="14" Index="510" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- lion seal -->
+				<Item Cat="14" Index="498" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- ice dragon seal -->
+				<Item Cat="14" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- lion seal -->
 				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- fire ss10 -->
 				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- water ss10 -->
 				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- ice ss10 -->
@@ -537,8 +537,8 @@
 				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- earth  ss10-->
 				<Item Cat="13" Index="467" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- garuda feather -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="2"/> <!-- golden sentence -->
-				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="3"/> <!-- golden sentence -->
-				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="4"/> <!-- golden sentence -->
+				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- golden sentence -->
+				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="2"/> <!-- golden sentence -->
 				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- steel hammer -->
 				<Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine sword -->
 				<Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine claw -->
@@ -550,6 +550,7 @@
 				<Item Cat="4" Index="46" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine gun -->
 				<Item Cat="5" Index="10" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine staff -->
 				<Item Cat="5" Index="36" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine stick -->
+				<Item Cat="5" Index="93" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine orb -->
 				<Item Cat="5" Index="93" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine orb -->
 			</Reward>
 		</Section>	
