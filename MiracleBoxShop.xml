@@ -515,19 +515,19 @@
 				<Item ItemCat="14" ItemIndex="413" Cost="1" />
 			</Input>
 			<Reward>
-				<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="5" Durability="1"/> <!-- ruud 2k -->
-				<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="5" Durability="1"/> <!-- ruud 3k -->
+				<Item Cat="14" Index="447" MinLevel="0" MaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="5" Durability="5"/> <!-- ruud 2k -->
+				<Item Cat="14" Index="448" MinLevel="0" MaxLevel="0" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="1" SocketCount="1" ElementalItem="-1" Rate="5" Durability="5"/> <!-- ruud 3k -->
 				<Item Cat="14" Index="96" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- toca -->
 				<Item Cat="14" Index="190" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- etoca -->
-				<Item Cat="12" Index="450" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- Ancestral -->
-				<Item Cat="12" Index="458" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- Ancestral -->
-				<Item Cat="12" Index="451" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- Honor -->
-				<Item Cat="12" Index="459" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- Honor -->
+				<Item Cat="12" Index="450" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- Ancestral -->
+				<Item Cat="12" Index="458" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- Ancestral -->
+				<Item Cat="12" Index="451" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3"/> <!-- Honor -->
+				<Item Cat="12" Index="459" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3"/> <!-- Honor -->
 				<Item Cat="12" Index="452" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- blood -->
 				<Item Cat="12" Index="460" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- blood -->
 				<Item Cat="12" Index="460" MinLevel="7" MaxLevel="9" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- blood -->
-				<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- seal of ghost horse -->
-				<Item Cat="14" Index="498" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- ice dragon seal -->
+				<Item Cat="14" Index="477" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="5"/> <!-- seal of ghost horse -->
+				<Item Cat="14" Index="498" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="3"/> <!-- ice dragon seal -->
 				<Item Cat="14" Index="510" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- lion seal -->
 				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- fire ss10 -->
 				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- water ss10 -->
@@ -540,6 +540,7 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- golden sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="2"/> <!-- golden sentence -->
 				<Item Cat="14" Index="342" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- steel hammer -->
+				<Item Cat="19" Index="3" MinLevel="7" MaxLevel="7" Skill="1" Luck="-1" Option="0" Exc="-0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1" Durability="1"/> <!-- premiumbox+7/ancient exc -->
 				<Item Cat="0" Index="19" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine sword -->
 				<Item Cat="0" Index="60" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine claw -->
 				<Item Cat="0" Index="76" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-3;4" SetItem="0" SocketCount="0" ElementalItem="0" Rate="1"/> <!-- divine sh0rt -->

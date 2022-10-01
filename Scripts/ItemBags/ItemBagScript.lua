@@ -402,6 +402,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),4, 'Item_(19,3,4)_Premium_Box') -- DropFunction /1/
 	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),5, 'Item_(19,3,5)_Premium_Box') -- DropFunction /1/
 	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),6, 'Item_(19,3,6)_Premium_Box') -- DropFunction /1/
+	AddItemBag(BAG_INVENTORY, MakeItemID(19,3),7, 'Item_(19,3,7)_Premium_Box') -- DropFunction /1/
 
 
 -- ====================================================================
