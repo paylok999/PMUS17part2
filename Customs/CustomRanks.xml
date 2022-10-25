@@ -33,6 +33,6 @@
 	<Rank MinLevel="0" MaxLevel="0" MinReset="0" MaxReset="0" VipType="12" IWCLord="0" ImageName="Rank12.tga" />
 	<Rank MinLevel="0" MaxLevel="0" MinReset="0" MaxReset="0" VipType="13" IWCLord="0" ImageName="Rank13.tga" />
 	<Rank MinLevel="0" MaxLevel="0" MinReset="0" MaxReset="0" VipType="14" IWCLord="0" ImageName="Rank14.tga" />
-	<Rank MinLevel="0" MaxLevel="0" MinReset="0" MaxReset="0" VipType="0"  IWCLord="1" ImageName="BingCZ.tga" />
+	<Rank MinLevel="0" MaxLevel="0" MinReset="0" MaxReset="0" VipType="-1"  IWCLord="1" ImageName="BingCZ.tga" />
 	<Rank MinLevel="0" MaxLevel="0" MinReset="0" MaxReset="0" VipType="15" IWCLord="0" SiegeLord="1" ImageName="LuoLan.tga" />	
 </CustomRanks>

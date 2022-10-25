@@ -551,7 +551,7 @@ end
 
 -- SkillID: 495, Earth Prison - (Duel Master)
 function EarthPrison_Level1()
- local DebuffSuccessRate = 5
+ local DebuffSuccessRate = 50
  local DebuffTime = 5
  
  return DebuffSuccessRate, DebuffTime
@@ -566,7 +566,7 @@ end
 
 -- SkillID: 497, Earth Prison Strengthener - (Duel Master)
 function EarthPrison_Level2()
- local DebuffSuccessRate = 5
+ local DebuffSuccessRate = 50
  local DebuffTime = 5
  
  return DebuffSuccessRate, DebuffTime

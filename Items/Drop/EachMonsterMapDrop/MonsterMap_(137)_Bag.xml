@@ -5,13 +5,22 @@
 	<DropItem MonsterID="906" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="52" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="2500" Name="GMGift" />
 	<DropItem MonsterID="907" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="52" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="2500" Name="GMGift" />
 	
-	<DropItem MonsterID="905" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="11" MinLevel="5" MaxLevel="6" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="5000" Name="SilverGoldMedal" />
-	<DropItem MonsterID="906" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="11" MinLevel="5" MaxLevel="6" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="5000" Name="SilverGoldMedal" />
+	<DropItem MonsterID="905" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="11" MinLevel="5" MaxLevel="6" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="SilverGoldMedal" />
+	<DropItem MonsterID="906" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="11" MinLevel="5" MaxLevel="6" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="SilverGoldMedal" />
 	<DropItem MonsterID="907" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="11" MinLevel="5" MaxLevel="6" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="SilverGoldMedal" />
 	
 	<DropItem MonsterID="905" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="345" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="1000" Name="mysteriousstone" />
 	<DropItem MonsterID="906" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="345" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="1000" Name="mysteriousstone" />
 	<DropItem MonsterID="907" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="345" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="1000" Name="mysteriousstone" />
+	
+	<DropItem MonsterID="905" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="19"  Index="3" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="35000" Name="PremiumBox" />
+	<DropItem MonsterID="906" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="19"  Index="3" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="35000" Name="PremiumBox" />
+	<DropItem MonsterID="907" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="19"  Index="3" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="35000" Name="PremiumBox" />
+	
+	<DropItem MonsterID="905" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="45" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Pumpkin" />
+	<DropItem MonsterID="906" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="45" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Pumpkin" />
+	<DropItem MonsterID="907" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="14"  Index="45" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="10000" Name="Pumpkin" />
+	
 	
 <!-- Armor Intermediate no-exc all class -->
   <DropItem MonsterID="905" MonsterElement="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="7"  Index="22" MinLevel="0" MaxLevel="0" Durability="0" Skill="1" Luck="-1" Option="0" Exc="-1" Element="0" SocketCount="0;0" Duration="0" Rate="2300" Name="Dark Soul Helm" />

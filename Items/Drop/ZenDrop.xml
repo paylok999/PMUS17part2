@@ -27,7 +27,7 @@
 // STRICTLY NO COMMENTS INSIDE TAGS
 -->
 
-<ZenDropSystem Enable="0" MultiplyByMonsterLevel="1" MultiplyChanceRate="10000">
+<ZenDropSystem Enable="1" MultiplyByMonsterLevel="1" MultiplyChanceRate="10000">
 	<Map Number="0"  MinMoneyCount="100" MaxMoneyCount="300" Disable="0" /> <!-- Lorencia -->
 	<Map Number="1"  MinMoneyCount="100" MaxMoneyCount="300" Disable="0" /> <!-- Dungeon (1 ~ 3) -->
 	<Map Number="2"  MinMoneyCount="100" MaxMoneyCount="300" Disable="0" /> <!-- Devias -->

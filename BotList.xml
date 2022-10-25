@@ -36,7 +36,7 @@
 //		~ 7: North-West
 //		~ 8: West
 //		~ -1: Random
-//	VipType: Minimum VIP Type to use the bot, 0 to allow non-vip to use it
+//	VipType: Minimum VIP Type to use the bot, -1 to allow non-vip to use it
 //	Money: Cost of Buff at specified Bot, Zen
 //	Enable: Activates load of specified bot, 0/1
 //	Name: Name of a Bot, max 10 characters
